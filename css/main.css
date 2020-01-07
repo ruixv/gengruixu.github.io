@@ -400,7 +400,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 #home {
     background-color: rgba(0,0,0, .5);
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/header-bg_2.jpg);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -423,7 +423,7 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 4rem;
     font-size: 64px;
     font-weight: 700;
-    color: #fff;
+    color: #000;
     letter-spacing: 3px;
     margin-bottom: 9px;
     opacity: 1;
@@ -439,7 +439,7 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 1.3125rem;
     font-size: 21px;
     font-weight: 300;
-    color: #fff;
+    color: #000;
     letter-spacing: 6px;
     margin-bottom: 45px;
     text-transform: uppercase;
