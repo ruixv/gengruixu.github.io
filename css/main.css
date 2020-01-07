@@ -423,7 +423,7 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 4rem;
     font-size: 64px;
     font-weight: 700;
-    color: #000;
+    color: #fff;
     letter-spacing: 3px;
     margin-bottom: 9px;
     opacity: 1;
@@ -439,7 +439,7 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 1.3125rem;
     font-size: 21px;
     font-weight: 300;
-    color: #000;
+    color: #fff;
     letter-spacing: 6px;
     margin-bottom: 45px;
     text-transform: uppercase;
