@@ -80,15 +80,23 @@
 		</div>
 	</section>
 
-
+	
 	<section id="news" class="row">
 		<div class="page about-content">
-			<div class="col about-title">
+			<div class="col about-title" id="blink">
 				<h3
 					data-100="-webkit-transform: translateX(100px); opacity:0;"
 					data-500="-webkit-transform: translateX(0px); opacity:1;"
 				>News!</h3>
 			</div>
+			<script language="javascript">
+				function changeColor(){
+				var color="#f00|#0f0|#00f|#880|#808|#088|yellow|green|blue|gray";
+				color=color.split("|");
+				document.getElementById("blink").style.color=color[parseInt(Math.random() * color.length)];
+				}
+				setInterval("changeColor()",200);
+			</script>
 			<div class="col empty">&nbsp;</div>
 			<div class="col about-description">
 				<p align="left"
