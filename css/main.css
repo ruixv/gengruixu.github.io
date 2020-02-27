@@ -614,7 +614,7 @@ h1, h2, h3, h4, h5, h6, p {
     cursor: default;
 }
 
-.icon-some:before {
+.icon-twitter:before {
     content: "\e600";
 }
 
@@ -630,7 +630,7 @@ h1, h2, h3, h4, h5, h6, p {
     content: "\e603";
 }
 
-.icon-twitter:before {
+.icon-some:before {
     content: "\e601";
 }
 
