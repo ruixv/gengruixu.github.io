@@ -631,7 +631,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .icon-some:before {
-    content: "\e608";
+    content: "\e601";
 }
 
 .icon-webo:before {
